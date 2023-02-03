@@ -98,6 +98,7 @@ ul {
 a {
   text-decoration: none;
   cursor: pointer;
+  color: var(--main-white);
 }
 
 img {
