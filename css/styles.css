@@ -275,7 +275,7 @@ img {
 .skills-header{
   text-align: center;
   margin-bottom: 5rem;
-  border-bottom: 0.2rem solid var(--main-white);
+
 }
 .skills-data{
   display: flex;
